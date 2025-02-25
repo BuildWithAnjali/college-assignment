@@ -143,12 +143,12 @@ margin: 20px 75px;
 .card{
   margin:15px;
 }
-/* .donor{
+.donor{
   flex-direction: column;
   display: flex;
   align-items: center;
   justify-content: center;
-} */
+}
 .last{
   display: flex;
   align-items:center;
@@ -197,12 +197,12 @@ margin: 20px 75px;
   display: flex;
   align-items:center;
 }
-/* .donatestyle{
+.donatestyle{
   
   font-style: oblique;
   margin: 30px;
   padding:80px;
-} */
+}
 .srcc{
   margin: 30px;
   display: flex;
